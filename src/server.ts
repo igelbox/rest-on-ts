@@ -1,4 +1,4 @@
-import './controllers/test';
+import './controllers/k8s';
 
 import * as express from 'express';
 import * as bodyParser from 'body-parser';
