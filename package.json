@@ -1,0 +1,16 @@
+{
+  "name": "rest-on-ts",
+  "version": "0.0.1",
+  "description": "REST service written on TypeScript",
+  "scripts": {
+    "start": "node dist/server.js",
+    "build": "tsc"
+  },
+  "author": "Sergey Vakhurin (igelbox)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "8.0.20",
+    "ts-node": "3.3.0",
+    "typescript": "2.4.2"
+  }
+}
